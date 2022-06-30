@@ -5,6 +5,7 @@
   ![badge](https://img.shields.io/badge/license-mit-blue)
 
   [Deployed Application Link on Heroku](https://parin14techblog.herokuapp.com/)
+  NOTE: Use "password" as password to login as any of the users shown on the app's homepage.
     
 
   ## Table-of-Contents
